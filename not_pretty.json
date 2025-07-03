@@ -1,0 +1,637 @@
+{
+ "children": [
+  {
+   "children": [],
+   "self": {
+    "ControlTypeStr": "pane",
+    "boundingRect": 1665.0,
+    "name": ""
+   }
+  },
+  {
+   "children": [
+    {
+     "children": [
+      {
+       "children": [],
+       "self": {
+        "ControlTypeStr": "text",
+        "boundingRect": 1713.0,
+        "name": "Scientific Calculator mode"
+       }
+      },
+      {
+       "children": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "children": [],
+             "self": {
+              "ControlTypeStr": "tab item",
+              "boundingRect": 2153.0,
+              "name": "There�s nothing saved in memory. Memory"
+             }
+            },
+            {
+             "children": [
+              {
+               "children": [],
+               "self": {
+                "ControlTypeStr": "text",
+                "boundingRect": 2097.0,
+                "name": "There�s no history yet."
+               }
+              }
+             ],
+             "self": {
+              "ControlTypeStr": "tab item",
+              "boundingRect": 2085.0,
+              "name": "There�s no history yet. History"
+             }
+            }
+           ],
+           "self": {
+            "ControlTypeStr": "tab",
+            "boundingRect": 2085.0,
+            "name": ""
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "group",
+          "boundingRect": 2085.0,
+          "name": "History and Memory lists"
+         }
+        },
+        {
+         "children": [
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1918.0,
+            "name": "Decimal separator"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1918.0,
+            "name": "Nine"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1835.0,
+            "name": "Eight"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1752.0,
+            "name": "Seven"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1918.0,
+            "name": "Six"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1835.0,
+            "name": "Five"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1752.0,
+            "name": "Four"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1918.0,
+            "name": "Three"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1835.0,
+            "name": "Two"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1752.0,
+            "name": "One"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1835.0,
+            "name": "Zero"
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "group",
+          "boundingRect": 1752.0,
+          "name": "Number pad"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1752.0,
+          "name": "Positive negative"
+         }
+        },
+        {
+         "children": [
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 2001.0,
+            "name": "Equals"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 2001.0,
+            "name": "Plus"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 2001.0,
+            "name": "Minus"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 2001.0,
+            "name": "Multiply by"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 2001.0,
+            "name": "Divide by"
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "group",
+          "boundingRect": 2001.0,
+          "name": "Standard operators"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1918.0,
+          "name": "Factorial"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1835.0,
+          "name": "Right parenthesis"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1752.0,
+          "name": "Left parenthesis"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 2001.0,
+          "name": "Modulo"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1918.0,
+          "name": "Exponential"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1835.0,
+          "name": "Absolute value"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1752.0,
+          "name": "Reciprocal"
+         }
+        },
+        {
+         "children": [
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "Natural log"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "Log"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "Ten to the exponent"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "'X' to the exponent"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "Square root"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "Square"
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "group",
+          "boundingRect": 1669.0,
+          "name": "Scientific functions"
+         }
+        },
+        {
+         "children": [
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 2001.0,
+            "name": "Backspace"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1918.0,
+            "name": "Clear entry"
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "group",
+          "boundingRect": 1918.0,
+          "name": "Display controls"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1835.0,
+          "name": "Euler's number"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1752.0,
+          "name": "Pi"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "button",
+          "boundingRect": 1669.0,
+          "name": "Inverse function"
+         }
+        },
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "children": [
+              {
+               "children": [],
+               "self": {
+                "ControlTypeStr": "text",
+                "boundingRect": 1834.0,
+                "name": "Function"
+               }
+              }
+             ],
+             "self": {
+              "ControlTypeStr": "button",
+              "boundingRect": 1802.0,
+              "name": "Functions"
+             }
+            }
+           ],
+           "self": {
+            "ControlTypeStr": "list item",
+            "boundingRect": 1801.0,
+            "name": "Functions"
+           }
+          },
+          {
+           "children": [
+            {
+             "children": [
+              {
+               "children": [],
+               "self": {
+                "ControlTypeStr": "text",
+                "boundingRect": 1701.0,
+                "name": "Trigonometry"
+               }
+              }
+             ],
+             "self": {
+              "ControlTypeStr": "button",
+              "boundingRect": 1669.0,
+              "name": "Trigonometry"
+             }
+            }
+           ],
+           "self": {
+            "ControlTypeStr": "list item",
+            "boundingRect": 1668.0,
+            "name": "Trigonometry"
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "list",
+          "boundingRect": 1665.0,
+          "name": "Scientific operator panels"
+         }
+        },
+        {
+         "children": [
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1989.0,
+            "name": "Memory store"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1909.0,
+            "name": "Memory subtract"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1829.0,
+            "name": "Memory add"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1749.0,
+            "name": "Memory recall"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "Clear all memory"
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "group",
+          "boundingRect": 1669.0,
+          "name": "Memory controls"
+         }
+        },
+        {
+         "children": [
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1738.0,
+            "name": "Scientific notation"
+           }
+          },
+          {
+           "children": [],
+           "self": {
+            "ControlTypeStr": "button",
+            "boundingRect": 1669.0,
+            "name": "Degrees toggle"
+           }
+          }
+         ],
+         "self": {
+          "ControlTypeStr": "group",
+          "boundingRect": 1669.0,
+          "name": "Angle operators"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "text",
+          "boundingRect": 1665.0,
+          "name": "Display is 187,773,888,888,811,111,111,111,111"
+         }
+        },
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "text",
+          "boundingRect": 0.0,
+          "name": "Expression is "
+         }
+        }
+       ],
+       "self": {
+        "ControlTypeStr": "group",
+        "boundingRect": 1665.0,
+        "name": ""
+       }
+      },
+      {
+       "children": [
+        {
+         "children": [],
+         "self": {
+          "ControlTypeStr": "text",
+          "boundingRect": 0.0,
+          "name": ""
+         }
+        }
+       ],
+       "self": {
+        "ControlTypeStr": "button",
+        "boundingRect": 1669.0,
+        "name": "Open Navigation"
+       }
+      }
+     ],
+     "self": {
+      "ControlTypeStr": "custom",
+      "boundingRect": 1665.0,
+      "name": ""
+     }
+    },
+    {
+     "children": [],
+     "self": {
+      "ControlTypeStr": "text",
+      "boundingRect": 1713.0,
+      "name": "Calculator"
+     }
+    }
+   ],
+   "self": {
+    "ControlTypeStr": "window",
+    "boundingRect": 1665.0,
+    "name": "Calculator"
+   }
+  },
+  {
+   "children": [
+    {
+     "children": [],
+     "self": {
+      "ControlTypeStr": "button",
+      "boundingRect": 2354.0,
+      "name": "Close Calculator"
+     }
+    },
+    {
+     "children": [],
+     "self": {
+      "ControlTypeStr": "button",
+      "boundingRect": 2308.0,
+      "name": "Maximise Calculator"
+     }
+    },
+    {
+     "children": [],
+     "self": {
+      "ControlTypeStr": "button",
+      "boundingRect": 2262.0,
+      "name": "Minimise Calculator"
+     }
+    },
+    {
+     "children": [
+      {
+       "children": [],
+       "self": {
+        "ControlTypeStr": "menu item",
+        "boundingRect": 0.0,
+        "name": "System"
+       }
+      }
+     ],
+     "self": {
+      "ControlTypeStr": "menu bar",
+      "boundingRect": 0.0,
+      "name": "System"
+     }
+    }
+   ],
+   "self": {
+    "ControlTypeStr": "",
+    "boundingRect": 2212.0,
+    "name": "Calculator"
+   }
+  }
+ ],
+ "self": {
+  "ControlTypeStr": "window",
+  "boundingRect": 1657.0,
+  "name": "Calculator"
+ }
+}

@@ -1,0 +1,12 @@
+/.vs
+*vcxproj.user
+/Project2/x64
+/Project2/Debug
+/Project2/Release
+*.pdb
+/x64/Debug
+/Release
+/Debug
+/x64/Release/Project2.exe
+/logs
+*.obj
